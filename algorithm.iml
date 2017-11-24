@@ -3,8 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/test/java/algorithms" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/out" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test/main" isTestSource="true" />
