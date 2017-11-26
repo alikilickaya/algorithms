@@ -33,6 +33,13 @@ public class Recurring {
         return result;
     }
 
+    /**
+     *
+     * @param input
+     * @return recurring all characters
+     * Example: input: "ABBCCDX"
+     *          return: "BC"
+     */
     public static String getAllRecurrings(String input) {
         if(StringUtils.isEmpty(input)) {
             return GeneralConstants.INVALID_INPUT;

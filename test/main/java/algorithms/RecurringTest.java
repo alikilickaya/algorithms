@@ -16,7 +16,7 @@ class RecurringTest {
 
     @Test
     void shouldGetFirstRecurring() {
-        String result = Recurring.getFirstRecurring("BACDXWAYTRAAHYBZ");
+        String result = Recurring.getFirstRecurring("BAAAHYBZ");
         assertEquals("A", result);
 
         String result2 = Recurring.getFirstRecurring("A");
