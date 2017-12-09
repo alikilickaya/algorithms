@@ -3,7 +3,10 @@ package main.java.algorithms;
 import main.java.constants.GeneralConstants;
 import main.java.utils.StringUtils;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 public class Recurring {
 
@@ -37,7 +40,7 @@ public class Recurring {
      *
      * @param input
      * @return recurring all characters
-     * Example: input: "ABBCCDX"
+     * example: input: "ABBCCDX"
      *          return: "BC"
      */
     public static String getAllRecurrings(String input) {
